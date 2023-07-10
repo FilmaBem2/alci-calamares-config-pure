@@ -15,18 +15,18 @@ sidebar: widget
 navigation: widget
 
 strings:
-    productName:         "DTOS"
-    shortProductName:    Generic
-    version:             2023.7 "Arid Armpit"
-    shortVersion:        2023.7
-    versionedName:       DTOS 2023.7 "Arid Armpit"
-    shortVersionedName:  DTOS 2023.7
-    bootloaderEntryName: DTOS
-    productUrl:          https://distro.tube/dtos/
-    supportUrl:          https://gitlab.com/dtos/dtos/
-    knownIssuesUrl:      https://gitlab.com/dtos/dtos/-/issues
-    releaseNotesUrl:     https://gitlab.com/dtos/dtos/RELEASE
-    donateUrl:           https://patreon.com/distrotube
+    productName:         "FBP OS"
+    shortProductName:    fbpos
+    version:             2023
+    shortVersion:        2023
+    versionedName:       FBP OS 2023
+    shortVersionedName:  FBP OS 2023
+    bootloaderEntryName: FBP OS
+    productUrl:          https://github.com/filmabem2/
+    supportUrl:          https://github.com/filmabem2/
+    knownIssuesUrl:      https://github.com/filmabem2
+    releaseNotesUrl:     https://github.com/filmabem2
+    donateUrl:           https://patreon.com/filmabem
 
 images:
     productBanner:       "banner.png"
