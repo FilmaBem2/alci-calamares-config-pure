@@ -1,1 +1,1 @@
-# Alci Calamares config - no desktop
+# FBP OS Calamares Settings
